@@ -1,0 +1,17 @@
+{
+  "item.endupdatemod.enderite_helmet": "Enderite Helmet",
+  "item.endupdatemod.enderite_chestplate": "Enderite Chestplate",
+  "item.endupdatemod.enderite_leggings": "Enderite Leggings",
+  "item.endupdatemod.enderite_boots": "Enderite Boots",
+  "item.endupdatemod.enderite_sword": "Enderite Sword",
+  "item.endupdatemod.enderite_pickaxe": "Enderite Pickaxe",
+  "item.endupdatemod.enderite_axe": "Enderite Axe",
+  "item.endupdatemod.enderite_shovel": "Enderite Shovel",
+  "item.endupdatemod.enderite_hoe": "Enderite Hoe",
+  "entity.endupdatemod.ender_guardian": "Ender Guardian",
+  "block.endupdatemod.enderite_ore": "Enderite Ore",
+  "block.endupdatemod.enderite_block": "Enderite Block",
+  "structure.endupdatemod.ancient_enderite_ruins": "Ancient Enderite Ruins",
+  "structure.endupdatemod.guardian_temple": "Guardian Temple",
+  "structure.endupdatemod.abandoned_tower": "Abandoned Tower"
+}

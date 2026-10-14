@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "endupdatemod",
+  "version": "1.0.0",
+  "name": "End Update Mod",
+  "description": "Fabric mod for Minecraft 1.21.4 expanding the End dimension with new armor (Enderite), boss (Ender Guardian), structures, and exploration.",
+  "authors": ["YourName"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.u2670046216.endupdatemod.EndUpdateMod"
+    ]
+  },
+  "minecraft": "1.21.4",
+  "depends": {
+    "fabricloader": ">=0.14.0",
+    "fabric-api": "*",
+    "minecraft": "1.21.4"
+  }
+}
